@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dkdla\\source\\repos\\0426\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B294ABE-251E-4473-A23A-DCD6A5012FC1}|0426\\0426.vcxproj|C:\\Users\\dkdla\\source\\repos\\0426\\0426\\0426)Prac1_MultiArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B294ABE-251E-4473-A23A-DCD6A5012FC1}|0426\\0426.vcxproj|solutionrelative:0426\\0426)Prac1_MultiArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B294ABE-251E-4473-A23A-DCD6A5012FC1}|0426\\0426.vcxproj|C:\\Users\\dkdla\\source\\repos\\0426\\0426\\0426)MultiDynamic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B294ABE-251E-4473-A23A-DCD6A5012FC1}|0426\\0426.vcxproj|solutionrelative:0426\\0426)MultiDynamic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B294ABE-251E-4473-A23A-DCD6A5012FC1}|0426\\0426.vcxproj|C:\\Users\\dkdla\\source\\repos\\0426\\0426\\0426)Prac3_Review.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B294ABE-251E-4473-A23A-DCD6A5012FC1}|0426\\0426.vcxproj|solutionrelative:0426\\0426)Prac3_Review.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "0426)Prac1_MultiArray.cpp",
+              "DocumentMoniker": "C:\\Users\\dkdla\\source\\repos\\0426\\0426\\0426)Prac1_MultiArray.cpp",
+              "RelativeDocumentMoniker": "0426\\0426)Prac1_MultiArray.cpp",
+              "ToolTip": "C:\\Users\\dkdla\\source\\repos\\0426\\0426\\0426)Prac1_MultiArray.cpp*",
+              "RelativeToolTip": "0426\\0426)Prac1_MultiArray.cpp*",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-26T05:52:47.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "0426)Prac3_Review.cpp",
+              "DocumentMoniker": "C:\\Users\\dkdla\\source\\repos\\0426\\0426\\0426)Prac3_Review.cpp",
+              "RelativeDocumentMoniker": "0426\\0426)Prac3_Review.cpp",
+              "ToolTip": "C:\\Users\\dkdla\\source\\repos\\0426\\0426\\0426)Prac3_Review.cpp",
+              "RelativeToolTip": "0426\\0426)Prac3_Review.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-26T05:43:48.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "0426)MultiDynamic.cpp",
+              "DocumentMoniker": "C:\\Users\\dkdla\\source\\repos\\0426\\0426\\0426)MultiDynamic.cpp",
+              "RelativeDocumentMoniker": "0426\\0426)MultiDynamic.cpp",
+              "ToolTip": "C:\\Users\\dkdla\\source\\repos\\0426\\0426\\0426)MultiDynamic.cpp",
+              "RelativeToolTip": "0426\\0426)MultiDynamic.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-26T05:35:07.627Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
